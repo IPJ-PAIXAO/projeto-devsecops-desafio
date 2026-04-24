@@ -41,3 +41,4 @@ Deploy GitHub Pages → só acontece se todos os steps anteriores passarem com s
 
 👉 Assim, a pipeline funciona como uma barreira de proteção em camadas: primeiro evita vazamento de segredos, depois garante código seguro, em seguida valida dependências externas, e por fim libera o deploy apenas se tudo estiver conforme os padrões de segurança.
 
+ https://ipj-paixao.github.io/projeto-devsecops-desafio/
